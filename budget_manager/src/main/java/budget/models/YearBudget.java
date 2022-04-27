@@ -1,4 +1,4 @@
-package models;
+package budget.models;
 
 import lombok.Getter;
 import lombok.Setter;

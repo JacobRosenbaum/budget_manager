@@ -1,4 +1,4 @@
-package models;
+package budget.models;
 import lombok.*;
 
 import javax.validation.constraints.Email;
